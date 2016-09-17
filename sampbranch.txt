@@ -1,1 +1,2 @@
 This is the sample data into the branch
+This is the also another sample data into the branch
